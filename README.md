@@ -1,6 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-### Name - Abishai K C  
-### Register Number - 212223240002
+**Name** - Ashwina K N  
+**Register Number** - 212223230025
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
